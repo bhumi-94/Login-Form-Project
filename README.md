@@ -41,7 +41,7 @@ login-form-project
 Add a screenshot of your project here.
 
 ```markdown
-![Login-Form-Project](Screenshot.png)
+![Login Form Project](Screenshot.png)
 ```
 
 ---
@@ -60,6 +60,3 @@ www.linkedin.com/in/bhoomi-kaushik-145081356
 If you found this project helpful, please **give it a star ⭐ on GitHub**.
 
 ---
-
-de)**
-* **A more professional README that helps recruiters notice your project**.

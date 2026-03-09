@@ -41,7 +41,7 @@ login-form-project
 Add a screenshot of your project here.
 
 ```markdown
-![Login Form Screenshot](screenshot.png)
+![Login-Form-Project](screenshot.png)
 ```
 
 ---
